@@ -1,4 +1,5 @@
-Aim - Perform host scanning and information gathering using Nmap and perform network scans to discover hosts and services, using different scan types (e.g., TCP, SYN scan, UDP scan).
+Aim - Perform host scanning and information gathering using Nmap and perform network scans to discover hosts and services, using different
+      scan types (e.g., TCP, SYN scan, UDP scan).
 
 Theory:
 
